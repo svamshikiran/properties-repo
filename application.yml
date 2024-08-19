@@ -1,4 +1,0 @@
-my:
-  greeting: Hello World from Spring Config Server - DEV environment
-  list:
-    values: One, Two, Three
