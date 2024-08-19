@@ -1,0 +1,4 @@
+my:
+  greeting: Hello World from Spring Config Server - DEFAULT environment
+  list:
+    values: One, Two, Three
